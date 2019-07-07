@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myMusic</string>
+    <string name="music_name"></string>
+    <string name="button1">上一首</string>
+    <string name="button2">播放</string>
+    <string name="button3">下一首</string>
+    <string name="time1">00:00</string>
+    <string name="time2">00:00</string>
+    <string name="music_author"/>
+    <string name="item1">顺序播放</string>
+    <string name="item2">随机播放</string>
+    <string name="item3">循环播放</string>
+    <string name="item4">单曲循环</string>
+    <string name="item5">退出</string>
+
+</resources>
